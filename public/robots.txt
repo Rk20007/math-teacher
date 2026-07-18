@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Disallow admin areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+
+# Crawl delay
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://anilkataria.com/sitemap.xml
